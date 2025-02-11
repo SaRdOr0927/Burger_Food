@@ -170,7 +170,7 @@ MainProductiInfo.addEventListener('click',() => {
     ImgBurger2.style.display = 'block'
     ImgBurger3.style.display = 'none'
     setTimeout(() => {
-        View.style.opacity = 1
+        View.style.opacity = 1;
         View.style.top = "-0%";
         
     },200)
@@ -188,8 +188,8 @@ MainProductiInfo2.addEventListener('click',() => {
     ImgBurger2.style.display = 'none'
     ImgBurger3.style.display = 'none'
     setTimeout(() => {
-        View.style.opacity = 1
-        View.style.top = "-0%";
+        View.style.opacity = 1;
+        View.style.top= "-0%";
         
     },200)
 
@@ -207,7 +207,7 @@ MainProductiInfo3.addEventListener('click',() => {
     ImgBurger2.style.display = 'none'
     ImgBurger3.style.display = 'block'
     setTimeout(() => {
-        View.style.opacity = 1
+        View.style.opacity = 1;
         View.style.top = "-0%";
         
     },200)
